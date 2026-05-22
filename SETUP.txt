@@ -1,0 +1,11 @@
+PHARMACY SIM — READY TO PLAY
+============================
+
+1. Open this folder in Unity Hub (2022.3 LTS recommended).
+2. First launch: automatic setup builds everything (~30–90 seconds).
+3. Open scene: Assets/Scenes/PharmacyLab.unity
+4. Press Play.
+
+If scene is missing: menu → Pharmacy Sim → Setup Everything (Full Project)
+
+Support: see README.md
