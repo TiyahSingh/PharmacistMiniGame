@@ -4,11 +4,17 @@ Educational 3D pharmacy workflow simulation: imprint verification, physics pill 
 
 ## Play in 3 steps
 
-1. **Open** this folder in **Unity 2022.3 LTS** (or newer 2022.3.x).
+1. **Open** this folder in **Unity 2022.3 LTS or newer** (Unity 2023/Unity 6 supported).
 2. Wait for packages to import. **Full setup runs automatically** on first open (URP, medications, scene, UI).
 3. Open **`Assets/Scenes/PharmacyLab.unity`** and press **Play**.
 
 Manual re-run: menu **Pharmacy Sim → Setup Everything (Full Project)**
+
+## Unity version notes
+
+- Opening in newer Unity will trigger an automatic project upgrade; accept it.
+- If Unity asks to update packages, allow the update and reopen once.
+- If URP assets look pink after upgrade, run **Pharmacy Sim -> Setup Everything (Full Project)** again.
 
 ## Controls
 
